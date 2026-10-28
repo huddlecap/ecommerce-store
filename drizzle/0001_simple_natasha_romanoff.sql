@@ -1,0 +1,1 @@
+ALTER TABLE "product_variants" ALTER COLUMN "stock" SET DEFAULT 10;
